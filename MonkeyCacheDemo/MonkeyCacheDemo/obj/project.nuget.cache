@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "umOMqY4x9yKXxrjuBJOkLGDvn7ZvOPU360z4w/6+o0lDan2AFWngYp+WnuJtFlF9nJnkxNmqwAPtBUSgl7B+HA==",
+  "success": true,
+  "projectFilePath": "C:\\GitHub\\MonkeyCacheDemo\\MonkeyCacheDemo\\MonkeyCacheDemo\\MonkeyCacheDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SESA560987\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\SESA560987\\.nuget\\packages\\monkeycache\\1.5.0-beta\\monkeycache.1.5.0-beta.nupkg.sha512",
+    "C:\\Users\\SESA560987\\.nuget\\packages\\monkeycache.filestore\\1.5.0-beta\\monkeycache.filestore.1.5.0-beta.nupkg.sha512",
+    "C:\\Users\\SESA560987\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\SESA560987\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\SESA560987\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\SESA560987\\.nuget\\packages\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.6.0.1141\\xamarin.forms.4.6.0.1141.nupkg.sha512"
+  ],
+  "logs": []
+}

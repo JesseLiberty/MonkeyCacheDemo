@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "MxZwMs+1kdSb0rHkuqgba3tyzHeDW7cjo0yNzPxGOUrW68U2TN3oEuLpxv2Sgzq5qEDE80JoumHcycVWcMszyA==",
+  "success": true,
+  "projectFilePath": "C:\\GitHub\\MonkeyCacheDemo\\MonkeyCacheDemo\\MonkeyCacheDemo.iOS\\MonkeyCacheDemo.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SESA560987\\.nuget\\packages\\monkeycache\\1.5.0-beta\\monkeycache.1.5.0-beta.nupkg.sha512",
+    "C:\\Users\\SESA560987\\.nuget\\packages\\monkeycache.filestore\\1.5.0-beta\\monkeycache.filestore.1.5.0-beta.nupkg.sha512",
+    "C:\\Users\\SESA560987\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\SESA560987\\.nuget\\packages\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.6.0.1141\\xamarin.forms.4.6.0.1141.nupkg.sha512"
+  ],
+  "logs": []
+}
